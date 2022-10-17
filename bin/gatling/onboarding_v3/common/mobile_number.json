@@ -1,0 +1,13 @@
+{
+    "temp_user_id": "${temp_user_id}",
+    "identity": [
+        {
+            "identity_type": "PHONE_NO",
+            "identity_value": "+911000000003"
+        }
+    ],
+    "credentials": [],
+    "metadata": {
+        "whatsapp_optin": true
+    }
+}

@@ -1,0 +1,4 @@
+include 'src:gatling:java'
+findProject(':src:gatling:java')?.name = 'java'
+include 'java'
+

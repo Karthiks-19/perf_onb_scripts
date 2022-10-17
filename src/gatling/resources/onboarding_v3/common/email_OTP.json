@@ -1,0 +1,9 @@
+{
+    "temp_user_id": "${temp_user_id}",
+    "otps": [
+        {
+            "identity_type": "EMAIL",
+            "otp": "0000"
+        }
+    ]
+}

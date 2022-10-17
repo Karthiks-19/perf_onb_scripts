@@ -1,0 +1,22 @@
+{
+  "task_id": "${taskId_03}",
+  "task_name": "crebitUserDataCollection",
+  "sub_task": "confirm",
+  "attributes_payload": [
+    {
+      "name": "flow_consent",
+      "type": "bool",
+      "value": "true"
+    },
+    {
+      "name": "auto_pay_consent",
+      "type": "bool",
+      "value": true
+    },
+    {
+      "name": "auto_swipe_consent",
+      "type": "bool",
+      "value": true
+    }
+  ]
+}

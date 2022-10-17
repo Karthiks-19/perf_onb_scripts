@@ -1,0 +1,12 @@
+{
+  "task_id": "${taskId_02}",
+  "task_name": "processKYCV2",
+  "sub_task": "confirm",
+  "attributes_payload": [
+    {
+      "name": "flow_consent",
+      "type": "bool",
+      "value": "true"
+    }
+  ]
+}

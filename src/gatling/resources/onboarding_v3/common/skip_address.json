@@ -1,0 +1,12 @@
+{
+  "task_id": "${taskId_01}",
+  "task_name": "processKYCV2",
+  "sub_task": "updateAddress",
+  "attributes_payload": [
+    {
+      "name": "skip_us_address",
+      "type": "bool",
+      "value": true
+    }
+  ]
+}
